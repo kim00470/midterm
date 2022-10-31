@@ -1,0 +1,172 @@
+html {
+    background-color: #aad4cf;
+    height: 1620px;
+    padding-left: 17.5%;
+}
+
+body {
+    background-color: #d4e9e7;
+    height: 1600px;
+    width: 1000px;
+    margin: 0;
+    
+}
+
+h1 {
+    margin: 20px;
+    font-family: Helvetica;
+    font-size: 4rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+.header {
+    background-image: url(../images/lone-starfish-wide.jpg);
+    padding: 175px;
+    height: 0;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    text-align: center;
+
+}
+
+.navbar {
+    background-color: #d4e9e7;
+    width: 100%;
+    height: 40px;
+    
+    
+}
+
+nav {
+    position: relative;
+    
+    
+}
+
+nav li {
+    display: inline;
+}
+
+li a {
+    
+    color: black;
+    display: inline-block;
+    width: 15rem;
+    height: 3rem;
+    font-family: Helvetica;
+    font-size: 1.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+    margin: 30px;
+    margin-top: 0px;
+}
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 1rem;
+}
+
+.paragraph {
+    
+    color: black;
+    font-family: Helvetica;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    width: 1000px;
+    margin: 0 auto;
+    margin-left: 1rem;
+
+}
+
+
+.paragraph img {
+    width: 250px;
+    float: left;
+    margin: 0 auto;
+    margin-right: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+ul {
+    font-family: Helvetica;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.frame {
+    font-family: Helvetica;
+    font-size: 1.15rem;
+    font-weight: 550;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.textboxes {
+    font-size: 1.1rem;
+    margin-left: 5px;
+    margin-top: 30px;
+    
+}
+
+#username {
+    width: 900px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#useremail {
+    width: 900px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#usercomment {
+    width: 900px;
+    height: 90px;
+    margin-top: 10px;
+}
+
+h4 {
+    font-size: 1.25rem;
+    font-weight: 550;
+    margin-top: 20px;
+}
+
+#button {
+    background-color: #d4e9e7;
+    width: 50px;
+    height: 35px;
+    margin-top: 15px;
+    font-family: Helvetica;
+    font-size: 11px;
+}
+
+
+#button:hover, #button:active {
+    background-color: #aad4cf;
+}
+
+footer {
+    text-align: right;
+    font-family: Helvetica;
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 30px;
+
+}
